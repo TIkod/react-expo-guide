@@ -1,3 +1,5 @@
+# Разработано организацией TICODE (https://ticode.online/)
+
 # Тема 4: State и Props
 
 ## Props — данные снаружи

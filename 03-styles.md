@@ -1,3 +1,5 @@
+# Разработано организацией TICODE (https://ticode.online/)
+
 # Тема 3: Стили и StyleSheet
 
 ## Как работают стили в React Native
